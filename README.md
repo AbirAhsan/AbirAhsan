@@ -9,8 +9,8 @@ Stackoverflow Profile -
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Flutter
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🤔 I’m looking for help with backend development using Go and the Gin framework.
+- 💬 Ask me about Flutter, Go, Gin, or any related topics.
 - 📫 How to reach me: admin@abirahsan.com
 - 📫 Here is my website: abirahsan.com
 - 📫 What's App: +8801716422666
