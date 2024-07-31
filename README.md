@@ -10,10 +10,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Flutter
 - 🤔 I’m looking for help with backend development using Go and the Gin framework.
-- 💬 Ask me about Flutter, Go, Gin, or any related topics.
+- 💬 Ask me about Dart, Python, Go, Flutter, Django, Gin or any related topics.
 - 📫 How to reach me: abirahsan122@gmail.com
 - 📫 Here is my website: abirahsan.com
-- 📫 What's App: +8801716422666
+- 📫 WhatsApp: +8801716422666
 
 	
 <a href="https://github.com/AbirAhsan?tab=repositories">
